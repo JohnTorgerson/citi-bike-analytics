@@ -12,6 +12,7 @@
 * `JC-202206-citibike-tripdata.csv` is raw data for Jersey City June 2022
 * `JC-202209-citibike-tripdata.csv` is raw data for Jersey City September 2022
 * `JerseyCitiBike.csv` is aggregated data that was concatenated using python
+* `bikes.ipynb` is a jupyter notebook used for concatonating the raw data
 * `ReadME.md` is the markdown text file explaining the contents
 * `TripAnalysis.md` is the markdown text file for analysis
 ---
